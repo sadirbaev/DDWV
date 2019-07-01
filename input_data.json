@@ -1,0 +1,40 @@
+
+{
+    labels: ["2019", "2018"],
+    data: [
+        {
+            label: "LINE-A",
+            values: [
+                [
+                    {
+                        name: "MACHINE-A",
+                        color: "#87ceeb",
+                        value: 380,
+                    },
+                    {
+                        name: "MACHINE-B",
+                        color: "#FD6347",
+                        value: 400,
+                    }
+                ] 
+            ]
+        },
+        {
+            label: "LINE-B",
+            values: [
+                [
+                    {
+                        name: "MACHINE-A",
+                        color: "#FD6347",
+                        value: 450
+                    },
+                    {
+                        name: "MACHINE-B",
+                        color: "#87ceeb",
+                        value: 420
+                    }
+                ]
+            ]
+        }
+    ]
+}
